@@ -1,0 +1,7 @@
+FID,twzyg,sex,neo43_a.b,,,,
+"""Family identifier Two twins will have the same FID""","""# mzDatam: zyg==1
+# mzDataf: zyg==3
+# dzDatam: zyg==2
+# dzDataf: zyg==4
+# dosDatamf: zyg==5
+# dosDatafm: zyg==6","""2 = female; 1 = male""","1-5 likert; Strongly disagree strongly agree; Sometimes when I am reading poetry or looking at a work of art, I feel a chill or wave of excitement’ a = survey; b = twin number ",,,,
