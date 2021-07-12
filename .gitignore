@@ -42,5 +42,6 @@ vignettes/*.pdf
 03_outputs/.DS_Store
 03_outputs/processedData/.DS_Store
 04_metadata/.DS_Store
+04_metadata/02_dictionaries/.DS_Store
 
 
